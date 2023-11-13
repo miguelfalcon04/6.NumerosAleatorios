@@ -55,7 +55,7 @@ public class Eje16 {
             }
         }
 
-        System.out.println();
+        System.out.println("");
 
         if(corazon==2 || diamante==2 || herradura==2 || campana==2 || limon==2){
             System.out.print("Bien, ha recuperado su moneda");
