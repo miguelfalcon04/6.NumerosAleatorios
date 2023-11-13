@@ -22,6 +22,6 @@ public class Eje13 {
             cont++;
 
         } while (dado1!=dado2);
-        
+
     }
 }
