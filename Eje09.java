@@ -19,7 +19,7 @@ public class Eje09 {
             }
         } while (azar!=24);
 
-        System.out.println();
+        System.out.println("");
         System.out.println("Se han generado "+(cont-1)+" numeros antes de generar el 24");
 
     }
