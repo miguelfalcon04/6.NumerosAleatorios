@@ -9,7 +9,7 @@ temperatura mínima deberá ser menor o igual que la temperatura máxima.
 
 
 
-public class Eje29 {
+public class Eje29 { 
     public static void menu(){
     System.out.println("1. Primavera");
     System.out.println("2. Verano");
