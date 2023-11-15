@@ -48,7 +48,7 @@ public class Eje31 {
                     break;
 
                 default:
-                    do {
+                    do { 
                         dado1 = (int)(Math.random()*6+1);
                         dado2 = (int)(Math.random()*6+1);
                         System.out.println("Dado 1: "+dado1);
