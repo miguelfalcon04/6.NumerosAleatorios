@@ -18,7 +18,7 @@ public class Eje30 {
 
         int posCab;
         int posPez;
-        int posCar; 
+        int posCar;  
         do{
             posCab = (int)(Math.random()*(anc-2)*(alt-2));
             posPez = (int)(Math.random()*(anc-2)*(alt-2));
