@@ -17,7 +17,7 @@ public class Eje26 {
         int posAnchura = 0;
         int posAlt = (int)((Math.random()*(alt))+1);
         if(posAlt==1 || posAlt==alt){
-            posAnchura = (int)(Math.random()*(anchura)+1);
+            posAnchura = (int)(Math.random()*(anchura)+1); 
         }else{
             posAnchura = (int)(Math.random()*2);
             switch (posAnchura) {
