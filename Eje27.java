@@ -9,7 +9,7 @@ public class Eje27 {
     public static void main(String[] args) {
 
         System.out.print("Turno del jugador (Introduzca piedra, papel o tijera): ");
-        String jugada = System.console().readLine();
+        String jugada = System.console().readLine(); 
 
         int ordenador = (int)(Math.random()*3);
         System.out.print("Turno del ordenador: ");
