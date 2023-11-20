@@ -45,7 +45,7 @@ public class Eje31 {
                 case 12:
                     System.out.print("Pierde todo su dinero");
                     salir = true;
-                    break;
+                    break; 
 
                 default:
                     do { 
