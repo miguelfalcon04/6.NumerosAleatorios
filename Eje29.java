@@ -15,7 +15,7 @@ public class Eje29 {
     System.out.println("2. Verano");
     System.out.println("3. Otoño");
     System.out.println("4. Invierno");
-    System.out.print("Seleccione la estación del año (1-4): ");
+    System.out.print("Seleccione la estación del año (1-4): "); 
 }
     public static void main(String[] args) {
         menu();
